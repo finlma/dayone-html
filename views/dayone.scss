@@ -10,14 +10,14 @@ section {
   padding: 2em 0em;
   page-break-inside:avoid;
 
-/*  p:first-child {
+ p:first-child {
     margin-top: 0;
-  }*/
+  }
 
-  p:first-child:first-line {
+  /*p:first-child:first-line {
     font-size: 1.3em;
     line-height: 1.5em;
-  }
+  }*/
 }
 
 .date {
