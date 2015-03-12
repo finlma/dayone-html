@@ -10,7 +10,7 @@ section {
   padding: 2em 0em;
   page-break-inside:avoid;
   
-  p:date {
+  .date {
   float: center;
   font-size: 1.3em;
   color: #000;
@@ -18,7 +18,7 @@ section {
   line-height:24px;
 }
 
- .first-child {
+ p:first-child {
     margin-top: 0;
   }
 
